@@ -6,7 +6,7 @@ import { Component, OnInit } from '@angular/core';
     <p>
       input-button-unit works!
       <br>
-      {{title}} is the new title
+      {{title}} is the new title by Yesha
     </p>
   `,
   styleUrls: ['./input-button-unit.component.scss']
